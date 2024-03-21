@@ -1,0 +1,3 @@
+/Users/marjonasaid/Desktop/CS3307/group17-master@3259b077006/weatherapp/build/CMakeFiles/weatherapp.dir
+/Users/marjonasaid/Desktop/CS3307/group17-master@3259b077006/weatherapp/build/CMakeFiles/edit_cache.dir
+/Users/marjonasaid/Desktop/CS3307/group17-master@3259b077006/weatherapp/build/CMakeFiles/rebuild_cache.dir
